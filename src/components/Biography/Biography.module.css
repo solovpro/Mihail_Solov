@@ -1,0 +1,34 @@
+.biography {
+  min-height: 600px;
+}
+.biography .maneText {
+  margin: 10px 0 0 0;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 33px;
+  color: #333;
+}
+.biography .maneText .hr {
+  height: 1px;
+  background-color: #333333;
+  width: 95%;
+}
+.biography .img {
+  width: 350px;
+  float: right;
+  margin: 0 50px;
+  box-shadow: 7px 7px #999;
+}
+.biography .text {
+  font-size: 24px;
+  margin: 0 0 0 20px;
+  color: #777;
+}
+.biography .text_main {
+  margin: 0 190px;
+  color: #555;
+  display: inline-block;
+  font-size: 30px;
+}

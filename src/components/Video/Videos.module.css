@@ -1,0 +1,41 @@
+.videos {
+  display: grid;
+  justify-content: center;
+  color: #555;
+}
+.videos .maneText {
+  margin: 10px 0 0 0;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 33px;
+  color: #333;
+}
+.videos .maneText .hr {
+  height: 1px;
+  background-color: #333333;
+  width: 96%;
+}
+.videos .videoComponent {
+  margin: 30px 92.7px;
+}
+.videos .videoComponent :nth-child(1) {
+  margin: 20px 50px;
+}
+.videos .videoComponent .video {
+  width: 1000px;
+}
+.videos .videoComponent .maneText {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 23px;
+  font-weight: bold;
+}
+.videos .videoComponent .hr {
+  background-color: #555;
+  height: 0.4px;
+  width: 100%;
+  margin: 40px 0 0 0;
+}

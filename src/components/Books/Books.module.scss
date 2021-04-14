@@ -1,0 +1,74 @@
+.booksContainer {
+  .maneText {
+    margin: 10px 0 0 0;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 33px;
+    color: #333;
+    .hr {
+      height: 1px;
+      background-color: #333333;
+      width: 95%;
+    }
+  }
+}
+
+.book {
+  margin: 10px 20px 35px;
+  .flex {
+    display: flex;
+    .description {
+      margin: 0 20px;
+      a {
+        text-decoration: none;
+        font-size: 17px;
+        margin: 0 45px;
+        color: #888;
+      }
+      .bookHeader {
+        font-size: 25px;
+        color: #444;
+      }
+      .text {
+        font-size: 18px;
+        margin: 7px 0 0 0;
+        color: #888;
+        span {
+          color: #555;
+        }
+      }
+    }
+    .newsPhoto {
+      width: 150px;
+      box-shadow: 7px 7px #999;
+    }
+  }
+  .buy {
+    font-size: 20px;
+    color: black;
+    display: grid;
+    margin: 0 0 10px 0;
+    a {
+      text-decoration: none;
+      font-size: 17px;
+      margin: 0 45px;
+      color: #888;
+    }
+  }
+  .read {
+    font-size: 20px;
+    color: black;
+    margin: 0 0 10px 0;
+    a {
+      text-decoration: none;
+      margin: 0 45px;
+      color: black;
+    }
+  }
+}
+
+.bookPage {
+  height: 1000px;
+}

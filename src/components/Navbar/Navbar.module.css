@@ -1,0 +1,30 @@
+.navbar {
+  background-color: black;
+  display: flex;
+  height: 40px;
+  padding: 0 0 0 65px;
+}
+.navbar .nav {
+  margin: auto 70px;
+  display: flex;
+  font-weight: bold;
+}
+.navbar .nav a {
+  text-decoration: none;
+  padding: 5px;
+  font-style: italic;
+  color: white;
+}
+.navbar .nav .activeLink {
+  color: #555;
+  background-color: white;
+}
+.navbar .nav :active {
+  color: white;
+  background-color: #4682B4;
+}
+.navbar .nav .hr {
+  background-color: white;
+  width: 1px;
+  margin: 0 83%;
+}

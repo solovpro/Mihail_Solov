@@ -1,0 +1,37 @@
+.news {
+  .maneText {
+    margin: 10px 0 0 0;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 33px;
+    color: #333;
+    .hr {
+      height: 1px;
+      background-color: #333333;
+      width: 95%;
+    }
+  }
+  .newsBlock {
+    margin: 50px 20px 0;
+    .newsHeader {
+      font-size: 25px;
+      color: #555;
+    }
+    .newsPhoto {
+      width: 100px;
+    }
+    .text {
+      font-size: 20px;
+      margin: 0 0 0 15px;
+      color: #777;
+    }
+  }
+  .hr {
+
+  }
+  .flex {
+    display: flex;
+  }
+}

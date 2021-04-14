@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  height: 150px;
+  background: url("https://proza.ru/pics/2020/04/25/736.jpg");
+  background-size: 1250px;
+}
+.header .name {
+  font-size: 32px;
+  margin: auto 39%;
+}
+.header .contacts {
+  display: flex;
+  margin: 62px -22% 0;
+}
+.header .contacts .contact {
+  width: 30px;
+  margin: 0 15px;
+}
