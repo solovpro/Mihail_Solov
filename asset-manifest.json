@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Mihail_Solov/static/css/main.08b8f806.chunk.css",
-    "main.js": "/Mihail_Solov/static/js/main.0e4d86ae.chunk.js",
-    "main.js.map": "/Mihail_Solov/static/js/main.0e4d86ae.chunk.js.map",
-    "runtime-main.js": "/Mihail_Solov/static/js/runtime-main.e978e025.js",
-    "runtime-main.js.map": "/Mihail_Solov/static/js/runtime-main.e978e025.js.map",
+    "main.css": "/Mihail_Solov/static/css/main.e7da659f.chunk.css",
+    "main.js": "/Mihail_Solov/static/js/main.1fa16e4a.chunk.js",
+    "main.js.map": "/Mihail_Solov/static/js/main.1fa16e4a.chunk.js.map",
+    "runtime-main.js": "/Mihail_Solov/static/js/runtime-main.1ea9846d.js",
+    "runtime-main.js.map": "/Mihail_Solov/static/js/runtime-main.1ea9846d.js.map",
     "static/css/2.6b560088.chunk.css": "/Mihail_Solov/static/css/2.6b560088.chunk.css",
     "static/js/2.c6d96883.chunk.js": "/Mihail_Solov/static/js/2.c6d96883.chunk.js",
     "static/js/2.c6d96883.chunk.js.map": "/Mihail_Solov/static/js/2.c6d96883.chunk.js.map",
@@ -14,7 +14,7 @@
     "static/css/4.970d9277.chunk.css": "/Mihail_Solov/static/css/4.970d9277.chunk.css",
     "static/js/4.7ca6f03a.chunk.js": "/Mihail_Solov/static/js/4.7ca6f03a.chunk.js",
     "static/js/4.7ca6f03a.chunk.js.map": "/Mihail_Solov/static/js/4.7ca6f03a.chunk.js.map",
-    "static/css/5.55d585e7.chunk.css": "/Mihail_Solov/static/css/5.55d585e7.chunk.css",
+    "static/css/5.3a55217c.chunk.css": "/Mihail_Solov/static/css/5.3a55217c.chunk.css",
     "static/js/5.58a1c78e.chunk.js": "/Mihail_Solov/static/js/5.58a1c78e.chunk.js",
     "static/js/5.58a1c78e.chunk.js.map": "/Mihail_Solov/static/js/5.58a1c78e.chunk.js.map",
     "static/js/6.78069ed1.chunk.js": "/Mihail_Solov/static/js/6.78069ed1.chunk.js",
@@ -25,8 +25,8 @@
     "static/css/2.6b560088.chunk.css.map": "/Mihail_Solov/static/css/2.6b560088.chunk.css.map",
     "static/css/3.ae2e26bc.chunk.css.map": "/Mihail_Solov/static/css/3.ae2e26bc.chunk.css.map",
     "static/css/4.970d9277.chunk.css.map": "/Mihail_Solov/static/css/4.970d9277.chunk.css.map",
-    "static/css/5.55d585e7.chunk.css.map": "/Mihail_Solov/static/css/5.55d585e7.chunk.css.map",
-    "static/css/main.08b8f806.chunk.css.map": "/Mihail_Solov/static/css/main.08b8f806.chunk.css.map",
+    "static/css/5.3a55217c.chunk.css.map": "/Mihail_Solov/static/css/5.3a55217c.chunk.css.map",
+    "static/css/main.e7da659f.chunk.css.map": "/Mihail_Solov/static/css/main.e7da659f.chunk.css.map",
     "static/js/2.c6d96883.chunk.js.LICENSE.txt": "/Mihail_Solov/static/js/2.c6d96883.chunk.js.LICENSE.txt",
     "static/media/Instagram-logo.9e9c2cb0.png": "/Mihail_Solov/static/media/Instagram-logo.9e9c2cb0.png",
     "static/media/facebook.d1758e94.png": "/Mihail_Solov/static/media/facebook.d1758e94.png",
@@ -45,10 +45,10 @@
     "static/media/стихи.7e8c3e96.png": "/Mihail_Solov/static/media/стихи.7e8c3e96.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e978e025.js",
+    "static/js/runtime-main.1ea9846d.js",
     "static/css/2.6b560088.chunk.css",
     "static/js/2.c6d96883.chunk.js",
-    "static/css/main.08b8f806.chunk.css",
-    "static/js/main.0e4d86ae.chunk.js"
+    "static/css/main.e7da659f.chunk.css",
+    "static/js/main.1fa16e4a.chunk.js"
   ]
 }
